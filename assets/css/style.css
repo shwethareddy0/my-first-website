@@ -1,0 +1,44 @@
+* {
+  margin: 0px;
+  padding: 0;
+}
+
+body {
+  font: 20px;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  position: relative;
+  background-color: beige;
+  line-height: 20px;
+}
+
+header,
+footer {
+  background-color: aqua;
+  width: 100%;
+  height: 50px;
+  text-align: center;
+  padding: 40px;
+}
+
+header nav {
+  display: inline;
+  float: right;
+  padding: 5px 80px;
+}
+
+article {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+ul {
+  margin-left: 20px;
+}
+section {
+  margin-left: 25px;
+}
+
+footer {
+  position: relative;
+  margin-top: -20px;
+}
